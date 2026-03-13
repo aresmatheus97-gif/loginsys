@@ -1,2 +1,8 @@
-# loginsys
-A login system simulation using Python, just for learning purposes.
+# Python Login System
+
+A simple login system simulation written in Python for learning purposes.
+
+## Features
+- User creation
+- Login validation
+- Input checking
