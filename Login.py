@@ -7,7 +7,7 @@ else:
     print("Você saiu")
     exit()
 creat = input("Deseja Criar um usuario?")
-if creat == "S" or "s":
+if creat == "S" or creat "s":
  while True:
     usercreat = input("Crie seu usuario: ")
     if not usercreat:
@@ -41,3 +41,4 @@ while True:
             print("Senha incorreta, tente novamente")
 
 ## not inverte a expressão-
+
